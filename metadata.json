@@ -1,0 +1,6 @@
+{
+  "name": "Voice Lab TTS",
+  "description": "Comprehensive Text-to-Speech helper & custom speech engine manager. Optimized for Huawei EMUI & standard Android, enabling real-time multilingual tests, pitch and rate configuration, preset test sets (FR, DE, PL, PT, ES, TR, BG, RU, UA, EN), and phrase collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
